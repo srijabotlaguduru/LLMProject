@@ -1,0 +1,10 @@
+langchain
+streamlit
+transformers
+faiss-cpu
+sentence-transformers
+torch
+torchvision
+torchaudio
+requests
+beautifulsoup4
